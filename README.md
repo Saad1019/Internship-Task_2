@@ -94,7 +94,8 @@ This repository contains **5 fully executed Jupyter Notebooks**, each covering a
 ---
 
 **✨ Author**
-__Muhammad Saad__
+
+_Muhammad Saad Naeem_
 
 
 
